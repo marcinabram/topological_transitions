@@ -17,6 +17,10 @@ Code illustrating our framework is located in the [code](code) folder.
 
 ## Key Results
 
+### Spinodal Decomposition of a Two-Phase Mixture
+
 ![spinodal_decomposition](figures/spinodal_decomposition.png)
+
+### Physical Vapor Deposition of Thin Films
 
 ![spinodal_decomposition](figures/physical_vapor_deposition.png)
