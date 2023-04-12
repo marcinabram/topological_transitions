@@ -33,6 +33,7 @@ Identifying microstructural topological transitions for the physical vapor depos
 
 ## Citation
 
+```
 @article{Abram-npj-2022,
   doi = {10.1038/s41524-022-00889-2},
   url = {https://www.nature.com/articles/s41524-022-00889-2},
