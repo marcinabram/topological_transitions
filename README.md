@@ -1,7 +1,7 @@
 # Topological Transitions
 
-A repository for the paper Marcin Abram, Keith Burghardt, Greg Ver Steeg, Aram Galstyan, and Remi Dingreville,
-[Inferring topological transitions in pattern-forming processes with self-supervised learning](https://arxiv.org/abs/2203.10204), arXiv 2203.10204 (2022).
+Check our paper: Marcin Abram, Keith Burghardt, Greg Ver Steeg, Aram Galstyan, and Remi Dingreville,
+_Inferring topological transitions in pattern-forming processes with self-supervised learning_, _npj_ Computational Materials __8__, 205 (2022), URL [https://www.nature.com/articles/s41524-022-00889-2](https://www.nature.com/articles/s41524-022-00889-2).
 
 ## Data Samples
 
