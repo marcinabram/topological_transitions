@@ -33,11 +33,17 @@ Identifying microstructural topological transitions for the physical vapor depos
 
 ## Citation
 
-```
-@misc{2203.10204,
-  Author = {Marcin Abram and Keith Burghardt and Greg Ver Steeg and Aram Galstyan and Remi Dingreville},
-  Title = {Inferring topological transitions in pattern-forming processes with self-supervised learning},
-  Year = {2022},
-  Eprint = {arXiv:2203.10204},
+@article{Abram-npj-2022,
+  doi = {10.1038/s41524-022-00889-2},
+  url = {https://www.nature.com/articles/s41524-022-00889-2},
+  year = {2022},
+  month = sep,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {8},
+  number = {1},
+  pages = {205},
+  author = {Marcin Abram and Keith Burghardt and Greg Ver Steeg and Aram Galstyan and Remi Dingreville},
+  title = {Inferring topological transitions in pattern-forming processes with self-supervised learning},
+  journal = {npj Computational Materials}
 }
 ```
